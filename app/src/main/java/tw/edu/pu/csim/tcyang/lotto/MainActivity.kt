@@ -53,7 +53,7 @@ fun Play(modifier: Modifier = Modifier) {
     Column (modifier = modifier
         .fillMaxSize()
         .clickable {
-            Toast.makeText(context,"螢幕觸控(洪詩晴)", Toast.LENGTH_SHORT).show()
+            Toast.makeText(context,"螢幕觸控(洪詩晴0910)", Toast.LENGTH_SHORT).show()
         },
         horizontalAlignment = Alignment.CenterHorizontally,
         verticalArrangement = Arrangement.Center
